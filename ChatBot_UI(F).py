@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_chat import message
-import streamlit_option_menu
+
 import sqlite3
 import time
 
